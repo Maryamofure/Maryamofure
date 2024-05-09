@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maryamofure
-- 👀 I’m interested in Data Analytics and Cybersecurity
-- 🌱 I’m currently learning beginner courses on Data Analytics and Cybersecurity
+- 👀 I’m interested in Cybersecurity (GRC)
+- 🌱 I’m currently learning beginner courses on Cybersecurity
 - 💞️ I’m looking to collaborate on any project that will improve my skills on both feilds of study, and buff up my experience and resume.
 - 📫 How to reach me ...maryamumar263@gmail.com
 
